@@ -32,7 +32,7 @@ Query: [1_customer_ltv_categories.sql](/1_customer_ltv_categories.sql)
 - Low-value customers (25%) make up the remaining 2% of revenue (4.3M)
 
 ### 2. Cohort Analysis
-Query: [2_cohort_analysis.sql](/2_1_cohort_analysis.sql)
+Query: [2_1_cohort_analysis.sql](/2_1_cohort_analysis.sql)
 - Examined revenue and unique customer counts by cohort
 - Cohorts were group based upon year of first purchase
 - Cohort groupings allowed examination of customer retention patterns
@@ -58,7 +58,7 @@ US Seniors Grouped By Year of First Purchase With Substantial Drop
 
 
 ### 3. Customer Retention
-Query: [3_retention_analysis](/3_1_retention_analysis.sql)
+Query: [3_1_retention_analysis](/3_1_retention_analysis.sql)
 - Identified relative customer churn rates
 - Screened for 2024 data for customers not at the 6 month inactive threshold
 - Calculated metrics for the High LTV customer cohorts
