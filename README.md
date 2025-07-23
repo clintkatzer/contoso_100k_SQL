@@ -1,4 +1,4 @@
-#   SQL Analysis - Contoso_100k
+#   SQL Analysis & Power BI Overview - Contoso_100k
 
 ## Overview
 This is a sales based analysis of the Contoso_100k data set looking at three specific parameters: Customer Value, Cohort Revenue, and Customer Retention.
@@ -81,3 +81,34 @@ High LTV Customer Retention
 - **Database:** PostgreSQL
 - **Analysis Tools:** PostgreSQL
 - **Visualizations:** Excel
+
+## Power BI Report Overview
+![alt text](/images/Power_BI_diagram.png)
+
+![alt text](/images/Power_BI_home.png)
+
+![alt text](/images/Power_BI_1_yearly_revenue_change.png)
+
+![alt text](/images/Power_BI_2_customer_drop.png)
+
+![alt text](/images/Power_BI_3_orders.png)
+
+![alt text](/images/Power_BI_4_cohorts.png)
+
+![alt text](/images/Power_BI_5_ages.png)
+
+![alt text](/images/Power_BI_6_LTV.png)
+
+![alt text](/images/Power_BI_7_high_LTV.png)
+
+![alt text](/images/Power_BI_9_revenue_region.png)
+
+![alt text](/images/Power_BI_10_revenue_cat.png)
+
+![alt text](/images/Power_BI_11_subcat.png)
+
+![alt text](/images/Power_BI_12_details.png)
+
+![alt text](/images/Power_BI_13_online.png)
+
+![alt text](/images/Power_BI_14_manufact.png)
